@@ -8,7 +8,7 @@ import com.tutorialninja.qa.pages.LoginPage;
 
 import org.openqa.selenium.By;
 
-
+// Priyanka has added some code
 public class Login extends BaseTestClass {
 	
 	public HomePage hm; 
